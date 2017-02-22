@@ -1,0 +1,109 @@
+body {
+  background-color: rgb(230, 230, 230);
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #AEAEAE;
+  font-size: 17px;
+  margin:0px;
+  /*font-weight: lighter;*/
+}
+
+.img-reduce-size {
+  max-height: 200px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  max-width: 200px;
+}
+
+.card-white {
+  background-color: white;
+  margin: 20px auto;
+  width: 600px;
+  text-align: center;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+}
+
+.td-align-top {
+  vertical-align: top;
+  padding: 0px 5px 0px 20px;
+  text-align: justify;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+    margin: 0px 10px;
+  font-size: 30px;
+
+}
+
+
+.list-inline li a {
+    color: rgb(210, 210, 210);
+}
+
+.list-inline li a:hover {
+    color: #39949A;
+}
+
+.btn-green {
+  background-color: #39949A;
+  border-radius: 3px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.btn-green:hover {
+  background-color: white;
+  color: #39949A;
+
+}
+
+.bottom-margin {
+  padding-bottom: 40px;
+}
+
+
+
+/*.list-inline li a i {
+  padding: 0px;
+}*/
+
+
+h1 {
+  font-family: 'Noto Sans', sans-serif;
+  color: #39949A;
+  line-height: 15px;
+  font-size: 35px;
+}
+
+h2, h3 {
+  font-family: 'Noto Sans', sans-serif;
+  color: #929292;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #929292;
+}
+
+a:hover {
+  color: #39949A;
+}
+
+ul {
+  padding-left: 5px;
+}
